@@ -907,7 +907,7 @@ namespace Plugins {
       Unknown = 0xC
     }
 
-    public static string getString(IntPtr inString) {
+    public static string GetString(IntPtr inString) {
       var str = Marshal.PtrToStringAnsi(inString);
       return str;
     }

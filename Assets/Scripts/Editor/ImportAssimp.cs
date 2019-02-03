@@ -4,6 +4,7 @@ using System.IO;
 using Plugins;
 using UnityEditor;
 using UnityEngine;
+using Assimp = Plugins.Assimp;
 
 namespace Editor {
 

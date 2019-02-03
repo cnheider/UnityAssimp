@@ -5,6 +5,7 @@ using System.Linq;
 using Plugins;
 using UnityEditor;
 using UnityEngine;
+using Assimp = Plugins.Assimp;
 
 namespace Editor {
 

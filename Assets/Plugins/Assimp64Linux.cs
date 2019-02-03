@@ -1,3 +1,5 @@
+#if UNITY_64 && (UNITY_EDITOR_LINUX || UNITY_STANDALONE_LINUX)
+
 using System;
 using System.Runtime.InteropServices;
 using UnityEngine;
@@ -8,7 +10,7 @@ namespace Plugins
     {
 
 
-#if UNITY_64 && (UNITY_EDITOR_LINUX || UNITY_STANDALONE_LINUX)
+
 
         const string AI_DLL_NAME = AI_BASE_DLL_PATH + "assimp";
 
@@ -340,6 +342,7 @@ namespace Plugins
         [DllImport(AI_DLL_NAME, CallingConvention = CallingConvention.StdCall)]
         public static extern float aiNode_GetEurlRotationZ(IntPtr pNode);
 
-#endif
+
     }
 }
+#endif

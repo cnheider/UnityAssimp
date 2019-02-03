@@ -1,8 +1,13 @@
-namespace Plugins
-{
-    public static partial class Assimp
-    {
+
+
 #if UNITY_64 && !(UNITY_EDITOR_LINUX || UNITY_STANDALONE_LINUX)
+
+using System;
+using System.Runtime.InteropServices;
+using UnityEngine;
+
+namespace Plugins{
+    public static partial class Assimp{
 
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall)]
         public static extern IntPtr aiImportFile(string filename, uint flags);
@@ -49,7 +54,7 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiMaterial_GetTexture", ExactSpelling = false)]
         private static extern IntPtr _aiMaterial_GetTexture(IntPtr pScene, int Layer, int type);
         public static string aiMaterial_GetTexture(IntPtr pScene, int Layer, int type) {
-            return getString(_aiMaterial_GetTexture(pScene, Layer, type));
+            return Plugins.Assimp.GetString(_aiMaterial_GetTexture(pScene, Layer, type));
         }
 
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall)]
@@ -65,7 +70,7 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiMaterial_GetTexture", ExactSpelling = false)]
         private static extern IntPtr _aiMaterial_GetName(IntPtr pScene, int Layer);
         public static string aiMaterial_GetName(IntPtr pScene, int Layer) {
-            return getString(_aiMaterial_GetName(pScene, Layer));
+            return Plugins.Assimp.GetString(_aiMaterial_GetName(pScene, Layer));
         }
 
 
@@ -86,7 +91,7 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiMesh_GetName", ExactSpelling = false)]
         private static extern IntPtr _aiMesh_GetName(IntPtr pScene, int mesh);
         public static string aiMesh_GetName(IntPtr pScene, int mesh) {
-            return getString(_aiMesh_GetName(pScene, mesh));
+            return Plugins.Assimp.GetString(_aiMesh_GetName(pScene, mesh));
         }
 
 
@@ -166,7 +171,7 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiMesh_GetBoneName", ExactSpelling = false)]
         private static extern IntPtr _aiMesh_GetBoneName(IntPtr pScene, int mesh, int Index);
         public static string aiMesh_GetBoneName(IntPtr pScene, int mesh, int Index) {
-            return getString(_aiMesh_GetBoneName(pScene, mesh, Index));
+            return Plugins.Assimp.GetString(_aiMesh_GetBoneName(pScene, mesh, Index));
         }
         //! Matrix that transforms from mesh space to bone space in bind pose(bone->mOffsetMatrix)
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall)]
@@ -217,13 +222,13 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiAnim_GetName", ExactSpelling = false)]
         private static extern IntPtr _aiAnim_GetName(IntPtr pScene, int anim);
         public static string aiAnim_GetName(IntPtr pScene, int anim) {
-            return getString(_aiAnim_GetName(pScene, anim));
+            return Plugins.Assimp.GetString(_aiAnim_GetName(pScene, anim));
         }
 
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiAnim_GetChannelName", ExactSpelling = false)]
         private static extern IntPtr _aiAnim_GetChannelName(IntPtr pScene, int anim, int Index);
         public static string aiAnim_GetChannelName(IntPtr pScene, int anim, int Index) {
-            return getString(_aiAnim_GetChannelName(pScene, anim, Index));
+            return Plugins.Assimp.GetString(_aiAnim_GetChannelName(pScene, anim, Index));
         }
 
 
@@ -284,7 +289,7 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall, EntryPoint = "aiNode_GetName", ExactSpelling = false)]
         private static extern IntPtr _aiNode_GetName(IntPtr pNode);
         public static string aiNode_GetName(IntPtr pNode) {
-            return getString(_aiNode_GetName(pNode));
+            return Plugins.Assimp.GetString(_aiNode_GetName(pNode));
         }
 
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall)]
@@ -328,6 +333,7 @@ namespace Plugins
         [DllImport("assimp", CallingConvention = CallingConvention.StdCall)]
         public static extern float aiNode_GetEurlRotationZ(IntPtr pNode);
 
-#endif
+
     }
 }
+#endif
