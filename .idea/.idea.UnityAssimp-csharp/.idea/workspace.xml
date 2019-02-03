@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a28b3dd-c3b3-4f56-af42-ee39e65e913c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SkinnedMeshCombiner.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <marker date="1549027626338" expanded="true" signature="6:66" ph="..." />
+                <marker date="1549027626338" expanded="true" signature="94:3892" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="154:3890" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="177:3884" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="636:707" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="846:2198" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="1149:1477" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="1632:1688" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="1744:1861" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="2314:2420" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="3019:3454" ph="{...}" />
+                <marker date="1549027626338" expanded="true" signature="3331:3440" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ViewSkeleton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding>
+                <marker date="1549027534622" expanded="true" signature="45:1049" ph="{...}" />
+                <marker date="1549027534622" expanded="true" signature="93:1047" ph="{...}" />
+                <marker date="1549027534622" expanded="true" signature="240:917" ph="{...}" />
+                <marker date="1549027534622" expanded="true" signature="276:907" ph="{...}" />
+                <marker date="1549027534622" expanded="true" signature="416:892" ph="{...}" />
+                <marker date="1549027534622" expanded="true" signature="461:624" ph="{...}" />
+                <marker date="1549027534622" expanded="false" signature="958:1041" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/Assimp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <marker date="1549027534570" expanded="false" signature="6:51" ph="..." />
+                <marker date="1549027534570" expanded="true" signature="86:92395" ph="{...}" />
+                <marker date="1549027534570" expanded="true" signature="119:92393" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="129:353" ph="/// Enables time measurements. If enabled the time needed for each ... " />
+                <marker date="1549027534570" expanded="false" signature="442:886" ph="/// Sets Assimp's multithreading policy. This is ignored if Assimp is ... " />
+                <marker date="1549027534570" expanded="false" signature="981:1345" ph="/// Specifies the maximum angle that may be between two vertex tangents that their tangents ... " />
+                <marker date="1549027534570" expanded="false" signature="1450:1906" ph="/// Specifies the maximum angle that may be between two face normals at the same vertex position that ... " />
+                <marker date="1549027534570" expanded="false" signature="2013:2464" ph="/// Sets the colormap(= palette) to be used to decode embedded textures in MDL (Quake or 3DG5) files. ... " />
+                <marker date="1549027534570" expanded="false" signature="2557:3267" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.RemoveRedundantMaterials&quot;/&gt; step to ... " />
+                <marker date="1549027534570" expanded="false" signature="3360:3873" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.PreTransformVertices&quot;/&gt; step ... " />
+                <marker date="1549027534570" expanded="false" signature="3970:4452" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.PreTransformVertices&quot;/&gt; step ... " />
+                <marker date="1549027534570" expanded="false" signature="4539:4911" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.FindDegenerates&quot;/&gt; step ... " />
+                <marker date="1549027534570" expanded="false" signature="4990:5595" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.OptimizeGraph&quot;/&gt; step ... " />
+                <marker date="1549027534570" expanded="false" signature="5686:6022" ph="/// Sets the maximum number of triangles a mesh can contain. This is used by the ... " />
+                <marker date="1549027534570" expanded="false" signature="6119:6448" ph="/// Sets the maximum number of vertices in a mesh. This is used by the ... " />
+                <marker date="1549027534570" expanded="false" signature="6541:6819" ph="/// Sets the maximum number of bones that can affect a single vertex. This is used ... " />
+                <marker date="1549027534570" expanded="false" signature="6910:7540" ph="/// Sets the size of the post-transform vertex cache to optimize vertices for. This is ... " />
+                <marker date="1549027534570" expanded="false" signature="7633:8068" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.RemoveComponent&quot;/&gt; step.  ... " />
+                <marker date="1549027534570" expanded="false" signature="8147:8545" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.SortByPrimitiveType&quot;/&gt; step. ... " />
+                <marker date="1549027534570" expanded="false" signature="8626:9211" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.FindInvalidData&quot;/&gt; step. ... " />
+                <marker date="1549027534570" expanded="false" signature="9306:9694" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.TransformUVCoords&quot;/&gt; step. ... " />
+                <marker date="1549027534570" expanded="false" signature="9779:10173" ph="/// A hint to Assimp to favour speed against import quality. Enabling this option ... " />
+                <marker date="1549027534570" expanded="false" signature="10252:10512" ph="/// Maximum bone cone per mesh for the &lt;see cref=&quot;PostProcessSteps.SplitByBoneCount&quot;/&gt; step. Meshes ... " />
+                <marker date="1549027534570" expanded="false" signature="10601:10810" ph="/// Source UV channel for tangent space computation. The specified channel must exist or an error will be raised. ... " />
+                <marker date="1549027534570" expanded="false" signature="10929:11141" ph="/// Threshold used to determine if a bone is kept or removed during the &lt;see cref=&quot;PostProcessSteps.Debone&quot;/&gt; ste ... " />
+                <marker date="1549027534570" expanded="false" signature="11226:11392" ph="/// Require all bones to qualify for deboning before any are removed. ... " />
+                <marker date="1549027534570" expanded="false" signature="11482:12189" ph="/// Sets the vertex animation keyframe to be imported. Assimp does not support ... " />
+                <marker date="1549027534570" expanded="false" signature="12288:12420" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+                <marker date="1549027534570" expanded="false" signature="12513:12645" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+                <marker date="1549027534570" expanded="false" signature="12738:12870" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+                <marker date="1549027534570" expanded="false" signature="12963:13095" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+                <marker date="1549027534570" expanded="false" signature="13188:13320" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+                <marker date="1549027534570" expanded="false" signature="13413:13545" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+                <marker date="1549027534570" expanded="false" signature="13644:13864" ph="/// Configures the AC loader to collect all surfaces which have the &quot;Backface cull&quot; flag set in separate ... " />
+                <marker date="1549027534570" expanded="false" signature="13969:14311" ph="/// Configures whether the AC loader evaluates subdivision surfaces (indicated by the presence ... " />
+                <marker date="1549027534570" expanded="false" signature="14418:14630" ph="/// Configures the UNREAL 3D loader to separate faces with different surface flags (e.g. two-sided vs single-side ... " />
+                <marker date="1549027534570" expanded="false" signature="14730:15257" ph="/// Configures the terragen import plugin to compute UV's for terrains, if ... " />
+                <marker date="1549027534570" expanded="false" signature="15350:15629" ph="/// Configures the ASE loader to always reconstruct normal vectors basing on the smoothing groups ... " />
+                <marker date="1549027534570" expanded="false" signature="15744:16136" ph="/// Configures the M3D loader to detect and process multi-part Quake player models. These models ... " />
+                <marker date="1549027534570" expanded="false" signature="16245:16690" ph="/// Tells the MD3 loader which skin files to load. When loading MD3 files, Assimp checks ... " />
+                <marker date="1549027534570" expanded="false" signature="16785:17037" ph="/// Specifies the Quake 3 shader file to be used for a particular MD3 file. This can be a full path or ... " />
+                <marker date="1549027534570" expanded="false" signature="17134:17777" ph="/// Configures the LWO loader to load just one layer from the model. ... " />
+                <marker date="1549027534570" expanded="false" signature="17882:18364" ph="/// Configures the MD5 loader to not load the MD5ANIM file for a MD5MESH file automatically. ... " />
+                <marker date="1549027534570" expanded="false" signature="18473:19348" ph="/// Defines the beginning of the time range for which the LWS loader evaluates animations and computes ... " />
+                <marker date="1549027534570" expanded="false" signature="19445:20294" ph="/// Defines the ending of the time range for which the LWS loader evaluates animations and computes ... " />
+                <marker date="1549027534570" expanded="false" signature="20387:20746" ph="/// Defines the output frame rate of the IRR loader. ... " />
+                <marker date="1549027534570" expanded="false" signature="20839:21174" ph="/// The Ogre importer will try to load this MaterialFile. If a material file does not ... " />
+                <marker date="1549027534570" expanded="false" signature="21279:21663" ph="/// The Ogre importer will detect the texture usage from the filename. Normally a texture is loaded as a color ma ... " />
+                <marker date="1549027534570" expanded="false" signature="21792:22204" ph="/// Specifies whether the IFC loader skips over shape representations of type 'Curve2D'. A lot of files contain b ... " />
+                <marker date="1549027534570" expanded="false" signature="22333:22957" ph="/// Specifies whether the IFC loader will use its own, custom triangulation algorithm to triangulate wall and flo ... " />
+                <marker date="1549027534570" expanded="false" signature="23074:23306" ph="/// Post processing flag options, specifying a number of steps ... " />
+                <marker date="1549027534570" expanded="true" signature="23367:44970" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="23381:23455" ph="/// No flags enabled. ... " />
+                <marker date="1549027534570" expanded="false" signature="23493:24161" ph="/// Calculates the tangents and binormals (bitangents) ... " />
+                <marker date="1549027534570" expanded="false" signature="24216:24931" ph="/// Identifies and joins identical vertex data sets within all ... " />
+                <marker date="1549027534570" expanded="false" signature="24986:25303" ph="/// Converts all imported data to a left handed coordinate space. ... " />
+                <marker date="1549027534570" expanded="false" signature="25351:26349" ph="/// Triangulates all faces of all meshes. ... " />
+                <marker date="1549027534570" expanded="false" signature="26394:27444" ph="/// Removes some parts of the data structure (animations, materials, ... " />
+                <marker date="1549027534570" expanded="false" signature="27494:28288" ph="/// Generates normals for all faces of all meshes. It may not be ... " />
+                <marker date="1549027534570" expanded="false" signature="28338:29233" ph="/// Generates smooth normals for all vertices of all meshes. It ... " />
+                <marker date="1549027534570" expanded="false" signature="29289:30162" ph="/// Splits large meshes into smaller submeshes. ... " />
+                <marker date="1549027534570" expanded="false" signature="30213:30886" ph="/// Removes the node graph and &quot;bakes&quot; (pre-transforms) all ... " />
+                <marker date="1549027534570" expanded="false" signature="30942:31638" ph="/// Limits the number of bones simultaneously affecting a single ... " />
+                <marker date="1549027534570" expanded="false" signature="31690:33016" ph="/// Validates the imported scene data structure. ... " />
+                <marker date="1549027534570" expanded="false" signature="33073:33793" ph="/// Re-orders triangles for better vertex cache locality. ... " />
+                <marker date="1549027534570" expanded="false" signature="33849:35027" ph="/// Searches for redundant/unreferenced materials and removes them. ... " />
+                <marker date="1549027534570" expanded="false" signature="35088:35857" ph="/// This step tries to determine which meshes have normal vectors ... " />
+                <marker date="1549027534570" expanded="false" signature="35912:36656" ph="/// This step splits meshes with more than one primitive type in homogeneous submeshes. ... " />
+                <marker date="1549027534570" expanded="false" signature="36712:38454" ph="/// This step searches all meshes for degenerated primitives and ... " />
+                <marker date="1549027534570" expanded="false" signature="38507:39369" ph="/// This step searches all meshes for invalid data, such as zeroed ... " />
+                <marker date="1549027534570" expanded="false" signature="39422:40317" ph="/// This step converts non-UV mappings (such as spherical or ... " />
+                <marker date="1549027534570" expanded="false" signature="40371:41173" ph="/// Applies per-texture UV transformations and bakes them to stand-alone vtexture ... " />
+                <marker date="1549027534570" expanded="false" signature="41228:41698" ph="/// Searches for duplicated meshes and replaces them with a reference ... " />
+                <marker date="1549027534570" expanded="false" signature="41750:42172" ph="/// Attempts to reduce the number of meshes (and draw calls).  ... " />
+                <marker date="1549027534570" expanded="false" signature="42225:43563" ph="/// Optimizes scene hierarchy. Nodes with no animations, bones, ... " />
+                <marker date="1549027534570" expanded="false" signature="43615:43783" ph="/// Flips all UV coordinates along the y-axis ... " />
+                <marker date="1549027534570" expanded="false" signature="43829:43936" ph="/// Flips face winding order from CCW (default) to CW. ... " />
+                <marker date="1549027534570" expanded="false" signature="43992:44159" ph="/// Splits meshes with many bones into submeshes so that each submesh has fewer or as many bones as a given limit ... " />
+                <marker date="1549027534570" expanded="false" signature="44215:44929" ph="/// &lt;para&gt;Removes bones losslessly or according to some threshold. In some cases (e.g. formats that require it) e ... " />
+                <marker date="1549027534570" expanded="true" signature="45009:48205" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="45023:45142" ph="/// No texture, but the value can be used as a 'texture semantic'. ... " />
+                <marker date="1549027534570" expanded="false" signature="45180:45321" ph="/// A diffuse texture that is combined with the result of the diffuse lighting equation. ... " />
+                <marker date="1549027534570" expanded="false" signature="45362:45505" ph="/// A specular texture that is combined with the result of the specular lighting equation. ... " />
+                <marker date="1549027534570" expanded="false" signature="45547:45675" ph="/// An ambient texture that is combined with the ambient lighting equation. ... " />
+                <marker date="1549027534570" expanded="false" signature="45716:45976" ph="/// An emissive texture that is added to the result of the lighting calculation. It is not influenced ... " />
+                <marker date="1549027534570" expanded="false" signature="46018:46203" ph="/// A height map texture. by convention, higher gray-scale values stand for ... " />
+                <marker date="1549027534570" expanded="false" signature="46243:46443" ph="/// A tangent-space normal map. There are several conventions for normal maps ... " />
+                <marker date="1549027534570" expanded="false" signature="46484:46808" ph="/// A texture that defines the glossiness of the material. This is the exponent of the specular (phong) ... " />
+                <marker date="1549027534570" expanded="false" signature="46851:47047" ph="/// The texture defines per-pixel opacity. usually 'white' means opaque and 'black' means 'transparency. Or quite ... " />
+                <marker date="1549027534570" expanded="false" signature="47088:47282" ph="/// A displacement texture. The exact purpose and format is application-dependent. Higher color values stand for  ... " />
+                <marker date="1549027534570" expanded="false" signature="47328:47663" ph="/// A lightmap texture (aka Ambient occlusion). Both 'lightmaps' and dedicated 'ambient occlusion maps' are cover ... " />
+                <marker date="1549027534570" expanded="false" signature="47705:47896" ph="/// A reflection texture. Contains the color of a perfect mirror reflection. This is rarely used, almost never fo ... " />
+                <marker date="1549027534570" expanded="false" signature="47940:48169" ph="/// An unknown texture that does not mention any of the defined texture type definitions. It is still imported, b ... " />
+                <marker date="1549027534570" expanded="false" signature="74197:74268" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="75166:75228" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="76399:76456" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="81927:81994" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="85163:85220" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="85528:85599" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="89541:89591" ph="{...}" />
+                <marker date="1549027534570" expanded="false" signature="92291:92386" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ImportAssimp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <marker date="1549027534694" expanded="true" signature="6:83" ph="..." />
+                <marker date="1549027534694" expanded="true" signature="117:11488" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="157:11486" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="295:559" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="607:618" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="653:3370" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="1215:2020" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="2110:2266" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="2318:2384" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="2439:2544" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="2578:3131" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="3167:3348" ph="{...}" />
+                <marker date="1549027534694" expanded="false" signature="3458:11480" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="3552:11470" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="4867:5001" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="5194:5436" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="5263:5365" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="5881:7854" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="7004:7179" ph="/* Texture2D tex = Resources.Load(texturename) as Texture2D; ... */" />
+                <marker date="1549027534694" expanded="true" signature="7221:7386" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="7546:7788" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="7959:10847" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="8046:10825" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="8739:9956" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="9510:9605" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="10048:10368" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="10497:10754" ph="{...}" />
+                <marker date="1549027534694" expanded="true" signature="10885:11277" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <marker date="1549027534658" expanded="true" signature="6:52" ph="..." />
+                <marker date="1549027534658" expanded="true" signature="78:5603" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="121:5601" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="734:2541" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="2577:2618" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="2685:3748" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="2866:3469" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="2972:3049" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="3081:3281" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="3147:3263" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="3346:3455" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="3512:3560" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="3607:3655" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="3834:3959" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="3996:4048" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="4086:4290" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="4328:4532" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="4576:4890" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="4944:5158" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="5001:5148" ph="{...}" />
+                <marker date="1549027534658" expanded="true" signature="5051:5134" ph="{...}" />
+                <marker date="1549027534658" expanded="false" signature="5220:5595" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/Assimp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ImportAssimp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ViewSkeleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SkinnedMeshCombiner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/Assimp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/ImportAssimp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewSkeleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SkinnedMeshCombiner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="26" />
+    <option name="y" value="26" />
+    <option name="width" value="934" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="References" type="aaba791b:UnityExplorerNode$ReferenceRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Static" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a28b3dd-c3b3-4f56-af42-ee39e65e913c" name="Default Changelist" comment="" />
+      <created>1549027451402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549027451402</updated>
+      <workItem from="1549027452557" duration="233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="233000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="23" y="-1" width="2514" height="1421" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/Assimp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1549027534570" expanded="false" signature="6:51" ph="..." />
+            <marker date="1549027534570" expanded="true" signature="86:92395" ph="{...}" />
+            <marker date="1549027534570" expanded="true" signature="119:92393" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="129:353" ph="/// Enables time measurements. If enabled the time needed for each ... " />
+            <marker date="1549027534570" expanded="false" signature="442:886" ph="/// Sets Assimp's multithreading policy. This is ignored if Assimp is ... " />
+            <marker date="1549027534570" expanded="false" signature="981:1345" ph="/// Specifies the maximum angle that may be between two vertex tangents that their tangents ... " />
+            <marker date="1549027534570" expanded="false" signature="1450:1906" ph="/// Specifies the maximum angle that may be between two face normals at the same vertex position that ... " />
+            <marker date="1549027534570" expanded="false" signature="2013:2464" ph="/// Sets the colormap(= palette) to be used to decode embedded textures in MDL (Quake or 3DG5) files. ... " />
+            <marker date="1549027534570" expanded="false" signature="2557:3267" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.RemoveRedundantMaterials&quot;/&gt; step to ... " />
+            <marker date="1549027534570" expanded="false" signature="3360:3873" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.PreTransformVertices&quot;/&gt; step ... " />
+            <marker date="1549027534570" expanded="false" signature="3970:4452" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.PreTransformVertices&quot;/&gt; step ... " />
+            <marker date="1549027534570" expanded="false" signature="4539:4911" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.FindDegenerates&quot;/&gt; step ... " />
+            <marker date="1549027534570" expanded="false" signature="4990:5595" ph="/// Configures the &lt;see cref=&quot;PostProcessSteps.OptimizeGraph&quot;/&gt; step ... " />
+            <marker date="1549027534570" expanded="false" signature="5686:6022" ph="/// Sets the maximum number of triangles a mesh can contain. This is used by the ... " />
+            <marker date="1549027534570" expanded="false" signature="6119:6448" ph="/// Sets the maximum number of vertices in a mesh. This is used by the ... " />
+            <marker date="1549027534570" expanded="false" signature="6541:6819" ph="/// Sets the maximum number of bones that can affect a single vertex. This is used ... " />
+            <marker date="1549027534570" expanded="false" signature="6910:7540" ph="/// Sets the size of the post-transform vertex cache to optimize vertices for. This is ... " />
+            <marker date="1549027534570" expanded="false" signature="7633:8068" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.RemoveComponent&quot;/&gt; step.  ... " />
+            <marker date="1549027534570" expanded="false" signature="8147:8545" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.SortByPrimitiveType&quot;/&gt; step. ... " />
+            <marker date="1549027534570" expanded="false" signature="8626:9211" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.FindInvalidData&quot;/&gt; step. ... " />
+            <marker date="1549027534570" expanded="false" signature="9306:9694" ph="/// Input parameter to the &lt;see cref=&quot;PostProcessSteps.TransformUVCoords&quot;/&gt; step. ... " />
+            <marker date="1549027534570" expanded="false" signature="9779:10173" ph="/// A hint to Assimp to favour speed against import quality. Enabling this option ... " />
+            <marker date="1549027534570" expanded="false" signature="10252:10512" ph="/// Maximum bone cone per mesh for the &lt;see cref=&quot;PostProcessSteps.SplitByBoneCount&quot;/&gt; step. Meshes ... " />
+            <marker date="1549027534570" expanded="false" signature="10601:10810" ph="/// Source UV channel for tangent space computation. The specified channel must exist or an error will be raised. ... " />
+            <marker date="1549027534570" expanded="false" signature="10929:11141" ph="/// Threshold used to determine if a bone is kept or removed during the &lt;see cref=&quot;PostProcessSteps.Debone&quot;/&gt; ste ... " />
+            <marker date="1549027534570" expanded="false" signature="11226:11392" ph="/// Require all bones to qualify for deboning before any are removed. ... " />
+            <marker date="1549027534570" expanded="false" signature="11482:12189" ph="/// Sets the vertex animation keyframe to be imported. Assimp does not support ... " />
+            <marker date="1549027534570" expanded="false" signature="12288:12420" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+            <marker date="1549027534570" expanded="false" signature="12513:12645" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+            <marker date="1549027534570" expanded="false" signature="12738:12870" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+            <marker date="1549027534570" expanded="false" signature="12963:13095" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+            <marker date="1549027534570" expanded="false" signature="13188:13320" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+            <marker date="1549027534570" expanded="false" signature="13413:13545" ph="/// See the documentation for &lt;see cref=&quot;AiConfigs.AI_CONFIG_IMPORT_GLOBAL_KEYFRAME&quot;/&gt;. ... " />
+            <marker date="1549027534570" expanded="false" signature="13644:13864" ph="/// Configures the AC loader to collect all surfaces which have the &quot;Backface cull&quot; flag set in separate ... " />
+            <marker date="1549027534570" expanded="false" signature="13969:14311" ph="/// Configures whether the AC loader evaluates subdivision surfaces (indicated by the presence ... " />
+            <marker date="1549027534570" expanded="false" signature="14418:14630" ph="/// Configures the UNREAL 3D loader to separate faces with different surface flags (e.g. two-sided vs single-side ... " />
+            <marker date="1549027534570" expanded="false" signature="14730:15257" ph="/// Configures the terragen import plugin to compute UV's for terrains, if ... " />
+            <marker date="1549027534570" expanded="false" signature="15350:15629" ph="/// Configures the ASE loader to always reconstruct normal vectors basing on the smoothing groups ... " />
+            <marker date="1549027534570" expanded="false" signature="15744:16136" ph="/// Configures the M3D loader to detect and process multi-part Quake player models. These models ... " />
+            <marker date="1549027534570" expanded="false" signature="16245:16690" ph="/// Tells the MD3 loader which skin files to load. When loading MD3 files, Assimp checks ... " />
+            <marker date="1549027534570" expanded="false" signature="16785:17037" ph="/// Specifies the Quake 3 shader file to be used for a particular MD3 file. This can be a full path or ... " />
+            <marker date="1549027534570" expanded="false" signature="17134:17777" ph="/// Configures the LWO loader to load just one layer from the model. ... " />
+            <marker date="1549027534570" expanded="false" signature="17882:18364" ph="/// Configures the MD5 loader to not load the MD5ANIM file for a MD5MESH file automatically. ... " />
+            <marker date="1549027534570" expanded="false" signature="18473:19348" ph="/// Defines the beginning of the time range for which the LWS loader evaluates animations and computes ... " />
+            <marker date="1549027534570" expanded="false" signature="19445:20294" ph="/// Defines the ending of the time range for which the LWS loader evaluates animations and computes ... " />
+            <marker date="1549027534570" expanded="false" signature="20387:20746" ph="/// Defines the output frame rate of the IRR loader. ... " />
+            <marker date="1549027534570" expanded="false" signature="20839:21174" ph="/// The Ogre importer will try to load this MaterialFile. If a material file does not ... " />
+            <marker date="1549027534570" expanded="false" signature="21279:21663" ph="/// The Ogre importer will detect the texture usage from the filename. Normally a texture is loaded as a color ma ... " />
+            <marker date="1549027534570" expanded="false" signature="21792:22204" ph="/// Specifies whether the IFC loader skips over shape representations of type 'Curve2D'. A lot of files contain b ... " />
+            <marker date="1549027534570" expanded="false" signature="22333:22957" ph="/// Specifies whether the IFC loader will use its own, custom triangulation algorithm to triangulate wall and flo ... " />
+            <marker date="1549027534570" expanded="false" signature="23074:23306" ph="/// Post processing flag options, specifying a number of steps ... " />
+            <marker date="1549027534570" expanded="true" signature="23367:44970" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="23381:23455" ph="/// No flags enabled. ... " />
+            <marker date="1549027534570" expanded="false" signature="23493:24161" ph="/// Calculates the tangents and binormals (bitangents) ... " />
+            <marker date="1549027534570" expanded="false" signature="24216:24931" ph="/// Identifies and joins identical vertex data sets within all ... " />
+            <marker date="1549027534570" expanded="false" signature="24986:25303" ph="/// Converts all imported data to a left handed coordinate space. ... " />
+            <marker date="1549027534570" expanded="false" signature="25351:26349" ph="/// Triangulates all faces of all meshes. ... " />
+            <marker date="1549027534570" expanded="false" signature="26394:27444" ph="/// Removes some parts of the data structure (animations, materials, ... " />
+            <marker date="1549027534570" expanded="false" signature="27494:28288" ph="/// Generates normals for all faces of all meshes. It may not be ... " />
+            <marker date="1549027534570" expanded="false" signature="28338:29233" ph="/// Generates smooth normals for all vertices of all meshes. It ... " />
+            <marker date="1549027534570" expanded="false" signature="29289:30162" ph="/// Splits large meshes into smaller submeshes. ... " />
+            <marker date="1549027534570" expanded="false" signature="30213:30886" ph="/// Removes the node graph and &quot;bakes&quot; (pre-transforms) all ... " />
+            <marker date="1549027534570" expanded="false" signature="30942:31638" ph="/// Limits the number of bones simultaneously affecting a single ... " />
+            <marker date="1549027534570" expanded="false" signature="31690:33016" ph="/// Validates the imported scene data structure. ... " />
+            <marker date="1549027534570" expanded="false" signature="33073:33793" ph="/// Re-orders triangles for better vertex cache locality. ... " />
+            <marker date="1549027534570" expanded="false" signature="33849:35027" ph="/// Searches for redundant/unreferenced materials and removes them. ... " />
+            <marker date="1549027534570" expanded="false" signature="35088:35857" ph="/// This step tries to determine which meshes have normal vectors ... " />
+            <marker date="1549027534570" expanded="false" signature="35912:36656" ph="/// This step splits meshes with more than one primitive type in homogeneous submeshes. ... " />
+            <marker date="1549027534570" expanded="false" signature="36712:38454" ph="/// This step searches all meshes for degenerated primitives and ... " />
+            <marker date="1549027534570" expanded="false" signature="38507:39369" ph="/// This step searches all meshes for invalid data, such as zeroed ... " />
+            <marker date="1549027534570" expanded="false" signature="39422:40317" ph="/// This step converts non-UV mappings (such as spherical or ... " />
+            <marker date="1549027534570" expanded="false" signature="40371:41173" ph="/// Applies per-texture UV transformations and bakes them to stand-alone vtexture ... " />
+            <marker date="1549027534570" expanded="false" signature="41228:41698" ph="/// Searches for duplicated meshes and replaces them with a reference ... " />
+            <marker date="1549027534570" expanded="false" signature="41750:42172" ph="/// Attempts to reduce the number of meshes (and draw calls).  ... " />
+            <marker date="1549027534570" expanded="false" signature="42225:43563" ph="/// Optimizes scene hierarchy. Nodes with no animations, bones, ... " />
+            <marker date="1549027534570" expanded="false" signature="43615:43783" ph="/// Flips all UV coordinates along the y-axis ... " />
+            <marker date="1549027534570" expanded="false" signature="43829:43936" ph="/// Flips face winding order from CCW (default) to CW. ... " />
+            <marker date="1549027534570" expanded="false" signature="43992:44159" ph="/// Splits meshes with many bones into submeshes so that each submesh has fewer or as many bones as a given limit ... " />
+            <marker date="1549027534570" expanded="false" signature="44215:44929" ph="/// &lt;para&gt;Removes bones losslessly or according to some threshold. In some cases (e.g. formats that require it) e ... " />
+            <marker date="1549027534570" expanded="true" signature="45009:48205" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="45023:45142" ph="/// No texture, but the value can be used as a 'texture semantic'. ... " />
+            <marker date="1549027534570" expanded="false" signature="45180:45321" ph="/// A diffuse texture that is combined with the result of the diffuse lighting equation. ... " />
+            <marker date="1549027534570" expanded="false" signature="45362:45505" ph="/// A specular texture that is combined with the result of the specular lighting equation. ... " />
+            <marker date="1549027534570" expanded="false" signature="45547:45675" ph="/// An ambient texture that is combined with the ambient lighting equation. ... " />
+            <marker date="1549027534570" expanded="false" signature="45716:45976" ph="/// An emissive texture that is added to the result of the lighting calculation. It is not influenced ... " />
+            <marker date="1549027534570" expanded="false" signature="46018:46203" ph="/// A height map texture. by convention, higher gray-scale values stand for ... " />
+            <marker date="1549027534570" expanded="false" signature="46243:46443" ph="/// A tangent-space normal map. There are several conventions for normal maps ... " />
+            <marker date="1549027534570" expanded="false" signature="46484:46808" ph="/// A texture that defines the glossiness of the material. This is the exponent of the specular (phong) ... " />
+            <marker date="1549027534570" expanded="false" signature="46851:47047" ph="/// The texture defines per-pixel opacity. usually 'white' means opaque and 'black' means 'transparency. Or quite ... " />
+            <marker date="1549027534570" expanded="false" signature="47088:47282" ph="/// A displacement texture. The exact purpose and format is application-dependent. Higher color values stand for  ... " />
+            <marker date="1549027534570" expanded="false" signature="47328:47663" ph="/// A lightmap texture (aka Ambient occlusion). Both 'lightmaps' and dedicated 'ambient occlusion maps' are cover ... " />
+            <marker date="1549027534570" expanded="false" signature="47705:47896" ph="/// A reflection texture. Contains the color of a perfect mirror reflection. This is rarely used, almost never fo ... " />
+            <marker date="1549027534570" expanded="false" signature="47940:48169" ph="/// An unknown texture that does not mention any of the defined texture type definitions. It is still imported, b ... " />
+            <marker date="1549027534570" expanded="false" signature="74197:74268" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="75166:75228" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="76399:76456" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="81927:81994" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="85163:85220" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="85528:85599" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="89541:89591" ph="{...}" />
+            <marker date="1549027534570" expanded="false" signature="92291:92386" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ImportAssimp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <marker date="1549027534694" expanded="true" signature="6:83" ph="..." />
+            <marker date="1549027534694" expanded="true" signature="117:11488" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="157:11486" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="295:559" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="607:618" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="653:3370" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="1215:2020" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="2110:2266" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="2318:2384" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="2439:2544" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="2578:3131" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="3167:3348" ph="{...}" />
+            <marker date="1549027534694" expanded="false" signature="3458:11480" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="3552:11470" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="4867:5001" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="5194:5436" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="5263:5365" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="5881:7854" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="7004:7179" ph="/* Texture2D tex = Resources.Load(texturename) as Texture2D; ... */" />
+            <marker date="1549027534694" expanded="true" signature="7221:7386" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="7546:7788" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="7959:10847" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="8046:10825" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="8739:9956" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="9510:9605" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="10048:10368" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="10497:10754" ph="{...}" />
+            <marker date="1549027534694" expanded="true" signature="10885:11277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1549027534658" expanded="true" signature="6:52" ph="..." />
+            <marker date="1549027534658" expanded="true" signature="78:5603" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="121:5601" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="734:2541" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="2577:2618" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="2685:3748" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="2866:3469" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="2972:3049" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="3081:3281" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="3147:3263" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="3346:3455" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="3512:3560" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="3607:3655" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="3834:3959" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="3996:4048" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="4086:4290" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="4328:4532" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="4576:4890" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="4944:5158" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="5001:5148" ph="{...}" />
+            <marker date="1549027534658" expanded="true" signature="5051:5134" ph="{...}" />
+            <marker date="1549027534658" expanded="false" signature="5220:5595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ViewSkeleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <marker date="1549027534622" expanded="true" signature="45:1049" ph="{...}" />
+            <marker date="1549027534622" expanded="true" signature="93:1047" ph="{...}" />
+            <marker date="1549027534622" expanded="true" signature="240:917" ph="{...}" />
+            <marker date="1549027534622" expanded="true" signature="276:907" ph="{...}" />
+            <marker date="1549027534622" expanded="true" signature="416:892" ph="{...}" />
+            <marker date="1549027534622" expanded="true" signature="461:624" ph="{...}" />
+            <marker date="1549027534622" expanded="false" signature="958:1041" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SkinnedMeshCombiner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <marker date="1549027626338" expanded="true" signature="6:66" ph="..." />
+            <marker date="1549027626338" expanded="true" signature="94:3892" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="154:3890" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="177:3884" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="636:707" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="846:2198" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="1149:1477" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="1632:1688" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="1744:1861" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="2314:2420" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="3019:3454" ph="{...}" />
+            <marker date="1549027626338" expanded="true" signature="3331:3440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
